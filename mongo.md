@@ -1,8 +1,6 @@
-﻿#Docker MongoDB
+﻿# Docker MongoDB
 
 mongodb in docker with account/password
-
-##1
 
 建立mongo的docker container
 ```cmd
